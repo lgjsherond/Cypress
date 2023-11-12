@@ -1,4 +1,14 @@
 {
+  "name": "cypressdemo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sheron Gerard Jeshuran",
+  "license": "ISC",
+  "keywords": [],
+  "description": "A sample project focus on cypress POM framework",
   "devDependencies": {
     "cypress": "^13.5.0"
   }
